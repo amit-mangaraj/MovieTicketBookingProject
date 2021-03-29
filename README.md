@@ -24,7 +24,7 @@ Name                             |   PS No.  |
 
 ## Assumptions
 
-For the simplicity of system, I have made following assumptions while implementing the solution -
+For the simplicity of system, we have made following assumptions while implementing the solution -
 
 1. Single User Model - One user will use at once. No locking implemented for seat selection. 
 2. Single Screen Theaters - No multiple screen handling for a theater has been done. However an option is given for future scope.
