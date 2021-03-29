@@ -1,4 +1,12 @@
 # Book My Show (bms-master)
+## Contributors List
+Name                             |   PS No.  |      
+---------------------------------|-----------|
+`1) Vinayak`               | 99003555  |   
+`4) Amit`               | 99003566  |
+`3) Soumyajeet     `     | 99003548  |      
+`4) Roshan`             | 99003576  | 
+`5) Sirisha`             | 99003526  | 
 
 ## Implementation
 
