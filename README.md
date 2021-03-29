@@ -82,8 +82,7 @@ This will book a ticket for you and you will get ticket id along with show detai
 
 ## Future Scope
 
-1. Multiple user handling 
-2. Seat locking during payment
-3. Multiple Screen handling in theater
-4. Seat management on the fly
+1. Seat locking during payment
+2. Multiple Screen handling in theater
+3. Seat management on the fly
 
