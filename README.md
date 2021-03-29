@@ -54,7 +54,7 @@ For the simplicity of system, I have made following assumptions while implementi
 This will book a ticket for you and you will get ticket id along with show details in response.
 
 
-## Verifying the results from DB
+## Verifying the results from DB / DB operations performed through Hibernate JPA , given below are equivalent sql queries 
 
 1. Login to your MySQL and go to `bookmyshow` DB
 
